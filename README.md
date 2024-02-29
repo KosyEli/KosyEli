@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kosisochukwu Udeog
+- 👋 Hi, I’m Kosisochukwu Udeogu
 - 👀 I’m a Medical Doctor interested in Data analysis and Biostatistis and Clinical Research
 - 🌱 I’m currently learning Phyton
 - 💞️ I’m looking to collaborate on Data analysis Projects
